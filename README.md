@@ -1,5 +1,6 @@
 # VotePush
-! [image of VotePush](http://res.cloudinary.com/hacktivist/image/upload/v1514542203/Capture123_qqcsiu.png)
+
+! [image of VotePush](https://res.cloudinary.com/hacktivist/image/upload/v1514542203/Capture123_qqcsiu.png)
 
 <del>Not-OpenSource</del>
   
@@ -17,7 +18,7 @@
 
 then run ```mongod``` on a seperate terminal
   
- **Finally Run***
+ **Finally Run**
  
  ```npm run start```
  
