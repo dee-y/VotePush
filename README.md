@@ -3,7 +3,6 @@
 
 ![VotePush](https://res.cloudinary.com/hacktivist/image/upload/v1514542203/Capture123_qqcsiu.png)
 
-[ ![Codeship Status for hacktivist123/VotePush](https://app.codeship.com/projects/17b2d470-72eb-0136-ec45-22b8058c50d0/status?branch=master)](https://app.codeship.com/projects/299496)
   
 **Votepush is A 21st century voting/polling system built with the MEAN stack**
 
